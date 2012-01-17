@@ -3,7 +3,7 @@ Contributors: talenthouse
 Tags: shortcode, talenthouse
 Requires at least: 2.1
 Tested up to: 3.3
-Stable tag: 1.0
+Stable tag: 1.1
 
 Allows you to include the Talenthouse Portal Engagement Widget within posts and pages using a simple shortcode: [th_portal]
 
@@ -70,6 +70,12 @@ Provide the following information to wp_dev@talenthouse.com
 
 == Changelog ==
 
+= 1.1 =
+fatal bug fixes
+
+* whitespace removed from begining and end of php files
+    - fixes bug where the wordpress feed fails to display correctly (i.e. mysite.com/feed )
+
 = 1.0 =
 first wordpress published release of shortcode
 
@@ -85,4 +91,3 @@ original non-published release of shortcode
 
 = 1.0 =
 The previous shortcode plugin is no longer supported and has been heavily upgraded to conform to wordpress plugin and usability standards.
-

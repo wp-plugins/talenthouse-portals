@@ -91,4 +91,3 @@ function th_portal_shortcode($args){
 
 add_shortcode('th_portal','th_portal_shortcode');
 ?>
-
