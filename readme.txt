@@ -3,7 +3,7 @@ Contributors: talenthouse
 Tags: shortcode, talenthouse
 Requires at least: 2.1
 Tested up to: 3.3
-Stable tag: trunk
+Stable tag: 0.5
 
 Allows you to include the Talenthouse Portal Engagement Widget within posts and pages using a simple shortcode: [th_portal]
 
