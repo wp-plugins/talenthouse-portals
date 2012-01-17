@@ -3,7 +3,7 @@
 Plugin Name: Talenthouse Portals
 Plugin URI: http://www.talenthouse.com/
 Description: Allows you to include the Talenthouse Portal Engagement Widget within posts and pages using a simple shortcode: [th_portal]
-Version: 1.0
+Version: 1.1
 Author: Allen Oliver
 Contributor: Mike Messenger
 Author URI: http://www.talenthouse.com
