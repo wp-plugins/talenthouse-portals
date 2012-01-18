@@ -5,16 +5,16 @@ Requires at least: 2.1
 Tested up to: 3.3
 Stable tag: 1.1
 
-Use the shortcode th_portal to embed a widget linking to your Creative Invite on talenthouse.com, allowing you to easily provide more exposure for your invite.
+Use the shortcode th_portal to embed a widget linking to your Creative Invite on talenthouse.com, easily providing more exposure for your invite.
 
 == Description ==
 
+Use the shortcode th_portal to embed a widget linking to your Creative Invite on talenthouse.com, easily providing more exposure for your invite.
+
 The Talenthouse Portal Engagement Widget allows users of your site access to the voting and submission tools available for your Creative Invite without requiring users to leave your website. 
 
-Use the shortcode th_portal to embed a widget linking to your Creative Invite on talenthouse.com, allowing you to easily provide more exposure for your invite.
-
 = What is a Creative Invite? =
-A call to collaborate with established, widely-recognizable artists and brands, as well as fellow up-and-coming innovators - collectively known as Hosts.
+* A call to collaborate with established, widely-recognizable artists and brands, as well as fellow up-and-coming innovators - collectively known as Hosts.
 * Talenthouse's Invites bypass the usual obstacles to success, enabling aspiring artists to make direct connections with fellow members and industry icons alike.
 * The Hosts request submissions that demonstrate talent suitable for the collaboration they have in mind - submissions may be a sample of edited footage for a music video, or a design for a performer's concert attire.
 * Creative Invites exist in two categories: Member Invites and Featured Invites.
@@ -96,7 +96,7 @@ Provide the following information to wp_dev@talenthouse.com
 
 == About Talenthouse ==
 * Talenthouse is the leading platform for creative collaboration, providing artists with life-changing opportunities for professional recognition and compensation. 
-* It’s an international home to hundreds of thousands of members from all creative fields - photography, film, design, music, visual art, modeling, and more.
+* It's an international home to hundreds of thousands of members from all creative fields - photography, film, design, music, visual art, modeling, and more.
 * Using Creative Invites, Talenthouse lets you widely display your talents and gives you a shot at directly collaborating with established artists and brands, as well as a collective of up-and-coming creative minds - your fellow members.
 * In addition to career-defining collaborations, Talenthouse's awards often include signed and exclusive items, as well as financial prizes.
 * Talenthouse stands by the principle that one's work is one's own, and never claims ownership of a member's submission.
