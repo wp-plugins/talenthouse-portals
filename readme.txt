@@ -71,6 +71,7 @@ Provide the following information to wp_dev@talenthouse.com
 1. If possible, attach any relevant log files
 
 == Screenshots ==
+Highlighting added for clarity
 1. Adding the portal to a page
 2. The portal display on a page
 
