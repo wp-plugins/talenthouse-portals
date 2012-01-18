@@ -46,7 +46,7 @@ If you do not yet have a Portal Page to link or have not been given a point of c
 
 5. Activate the plugin from Plugins -> Installed Plugins
 
-6. Place the [th_portal key="<affiliate key>" width="<portal width>"] shortcode into a wordpress page
+6. Place the [th_portal key="&lt;affiliate key&gt;" width="&lt;portal width&gt;"] shortcode into a wordpress page
 
 = Install Manually =
 
@@ -54,7 +54,7 @@ If you do not yet have a Portal Page to link or have not been given a point of c
 
 2. Activate the plugin from Plugins -> Installed Plugins
 
-3. Place the [th_portal key="<affiliate key>" width="<portal width>"] shortcode into a wordpress page
+3. Place the [th_portal key="&lt;affiliate key&gt;" width="&lt;portal width&gt;"] shortcode into a wordpress page
 
 = Shortcode Options =
 * width options are "narrow" or "wide"
