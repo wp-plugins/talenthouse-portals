@@ -104,7 +104,8 @@ Provide the following information to wp_dev@talenthouse.com
 * Talenthouse stands by the principle that one's work is one's own, and never claims ownership of a member's submission.
 * Members now have the opportunity to build their own Invites and discover partnerships that will result in excellent artistry and the development of their creative careers.
 
-Join us now by signing up for a Talenthouse Portfolio, and remember: "This Is Your House. Welcome Home."
+Join us now by signing up for a Talenthouse Portfolio, and remember: 
+"This Is Your House. Welcome Home."
 
 
 == Changelog ==
