@@ -32,7 +32,9 @@ Contact adam@talenthouse.com to get started
 
 == Installation ==
 
-This section describes how to install the plugin. If you do not yet have a Portal Page to link or have not been given a point of contact in the Talenthouse implementation team, please email adam@talenthouse.com
+This section describes how to install the plugin. 
+
+If you do not yet have a Portal Page to link or have not been given a point of contact in the Talenthouse implementation team, please email adam@talenthouse.com
 
 1. Request an affiliate key and a portal size from your Talenthouse implementation team contact
 1. Upload `talenthouse_portals.zip` to the `/wp-content/plugins/` directory
