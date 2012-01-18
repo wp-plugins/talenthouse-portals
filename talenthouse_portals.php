@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Talenthouse Portals
-Plugin URI: http://http://wordpress.org/extend/plugins/talenthouse-portals/installation/
+Plugin URI: http://wordpress.org/extend/plugins/talenthouse-portals/installation/
 Description: Allows you to include the Talenthouse Portal Engagement Widget within posts and pages using a simple shortcode: [th_portal]
 Version: 1.1
-Author: Talenthouse, Inc
+Author: Talenthouse
 Contributor: Allen Oliver, Mike Messenger
 Author URI: http://profiles.wordpress.org/users/talenthouse/profile/public/
 Email: wp_dev@talenthouse.com
@@ -32,7 +32,7 @@ function th_portal_shortcode($args){
 	// 		[th_portal key="#unique_key" width=730]
 
 	$error = '';	// stores error messages, empty string when no errors occur
-	$jsfileurl = plugins_url( '/talenthouse_portals/TH.js', _FILE_ );
+	$jsfileurl = plugins_url( '/talenthouse-portals/TH.js', _FILE_ );
 
 	// Obtain the shortcode variables
 	extract( 
