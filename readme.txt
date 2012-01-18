@@ -5,15 +5,34 @@ Requires at least: 2.1
 Tested up to: 3.3
 Stable tag: 1.1
 
-Allows you to include the Talenthouse Portal Engagement Widget within posts and pages using a simple shortcode: [th_portal]
+Use the shortcode th_portal to embed a widget linking to your Creative Invite on talenthouse.com, allowing you to easily provide more exposure for your invite.
 
 == Description ==
 
-Allows you to include the Talenthouse Portal Engagement Widget within posts and pages using a simple shortcode: [th_portal]
+The Talenthouse Portal Engagement Widget allows users of your site access to the voting and submission tools available for your Creative Invite without requiring users to leave your website. 
+
+Use the shortcode th_portal to embed a widget linking to your Creative Invite on talenthouse.com, allowing you to easily provide more exposure for your invite.
+
+= What is a Creative Invite? =
+A call to collaborate with established, widely-recognizable artists and brands, as well as fellow up-and-coming innovators - collectively known as Hosts.
+* Talenthouse's Invites bypass the usual obstacles to success, enabling aspiring artists to make direct connections with fellow members and industry icons alike.
+* The Hosts request submissions that demonstrate talent suitable for the collaboration they have in mind - submissions may be a sample of edited footage for a music video, or a design for a performer's concert attire.
+* Creative Invites exist in two categories: Member Invites and Featured Invites.
+
+
+= Why Host a Creative Invite? =
+
+* Collaborate with a fellow artist to accomplish the creative project of your choice.  
+* Draw from hundreds of thousands of creative Talenthouse members from around the world.
+* Find winning submission(s) through open votes, your personal choice, or a combination of both.
+* Invigorate your audiences and cultivate a new network of supporters.
+* Win-Win: You get to partner with your preferred talent and every participant gains widespread exposure.
+
+Contact adam@talenthouse.com to get started
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+This section describes how to install the plugin. If you do not yet have a Portal Page to link to please contact adam@talenthouse.com 
 
 1. Obtain affiliate key and request a portal size from your Talenthouse implementation team contact
 1. Upload `talenthouse_portals.zip` to the `/wp-content/plugins/` directory
@@ -74,6 +93,17 @@ Provide the following information to wp_dev@talenthouse.com
 == Screenshots ==
 1. Adding the portal to a page (highlighting added for clarity)
 2. The portal display on a page (highlighting added for clarity)
+
+== About Talenthouse ==
+* Talenthouse is the leading platform for creative collaboration, providing artists with life-changing opportunities for professional recognition and compensation. 
+* It’s an international home to hundreds of thousands of members from all creative fields - photography, film, design, music, visual art, modeling, and more.
+* Using Creative Invites, Talenthouse lets you widely display your talents and gives you a shot at directly collaborating with established artists and brands, as well as a collective of up-and-coming creative minds - your fellow members.
+* In addition to career-defining collaborations, Talenthouse's awards often include signed and exclusive items, as well as financial prizes.
+* Talenthouse stands by the principle that one's work is one's own, and never claims ownership of a member's submission.
+* Members now have the opportunity to build their own Invites and discover partnerships that will result in excellent artistry and the development of their creative careers.
+
+Join us now by signing up for a Talenthouse Portfolio, and remember: "This Is Your House. Welcome Home."
+
 
 == Changelog ==
 
