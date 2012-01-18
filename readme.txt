@@ -78,14 +78,14 @@ Provide the following information to wp_dev@talenthouse.com
 == Changelog ==
 
 = 1.1 =
-fatal bug fixes
+Critical bug fixes
 
 * whitespace removed from begining and end of php files
     - fixes bug where the wordpress feed fails to display correctly (i.e. mysite.com/feed )
 * path to plugin folder uses correct wordpress method
 
 = 1.0 =
-first wordpress published release of shortcode
+First wordpress published release of shortcode
 
 * shortcode tag changed to [th_portal]
 * error messages added
@@ -93,7 +93,7 @@ first wordpress published release of shortcode
 * shortcode paramaters checked for correctness
 
 = 0.9 =
-original non-published release of shortcode
+Original non-published release of shortcode
 
 == Upgrade Notice ==
 
