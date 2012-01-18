@@ -20,7 +20,7 @@ This section describes how to install the plugin and get it working.
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place the [th_portal key="&lt;affiliate key&gt;" width="&lt;portal width&gt;"] shortcode into a wordpress page
 
-* width options are narrow or wide
+* width options are "narrow" or "wide"
 * key will be the string of letters and numbers assigned from the Talenthouse implementation team
 
 == Frequently Asked Questions ==
