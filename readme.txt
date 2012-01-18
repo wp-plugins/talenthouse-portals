@@ -37,9 +37,20 @@ This section describes how to install the plugin.
 If you do not yet have a Portal Page to link or have not been given a point of contact in the Talenthouse implementation team, please email adam@talenthouse.com
 
 1. Request an affiliate key and a portal size from your Talenthouse implementation team contact
-1. Upload `talenthouse_portals.zip` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place the [th_portal key="&lt;affiliate key&gt;" width="&lt;portal width&gt;"] shortcode into a wordpress page
+
+2. Choose either step #3 and install with wordpress or step #6 and install manually
+
+3. Select Plugins -> Add New
+
+4. Search for "talenthouse portals"
+
+5. Skip to step #7
+
+6. Alternately Upload `talenthouse_portals.zip` to the `/wp-content/plugins/` directory
+
+7. Activate the plugin from Plugins -> Installed Plugins
+
+8. Place the [th_portal key="<affiliate key>" width="<portal width>"] shortcode into a wordpress page
 
 * width options are "narrow" or "wide"
 * key will be the string of letters and numbers assigned from the Talenthouse implementation team
@@ -132,3 +143,4 @@ Original non-published release of shortcode
 
 = 1.0 =
 The previous shortcode plugin is no longer supported and has been heavily upgraded to conform to wordpress plugin and usability standards.
+
